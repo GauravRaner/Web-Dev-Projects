@@ -1,0 +1,46 @@
+const Data =[
+    {
+        id:1,
+        name:"SRK",
+        age:46,
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIFuBy9p5Fc6ID6LcyrHT-E7kUbmHqDnU8sWsilTIaw&s"
+    },
+    {
+        id:2,
+        name:"Akshay",
+        age:45,
+        img:"https://m.media-amazon.com/images/M/MV5BODI4NDY1NzkyM15BMl5BanBnXkFtZTgwNzM3MDM0OTE@._V1_.jpg"
+    },
+    {
+        id:3,
+        name:"Aamir",
+        age:56,
+        img:"https://filmfare.wwmindia.com/content/2020/aug/aamirkhanfirstsalary41598273973.jpg"
+    },
+    {
+        id:4,
+        name:"Salman",
+        age:41,
+        img:"https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/6/10/1686391335720_Snapinsta.app12160075248438457023074117174658584768199506n1080.jpg"
+    },
+    {
+        id:5,
+        name:"Virat",
+        age:36,
+        img:"https://upload.wikimedia.org/wikipedia/commons/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg"
+    },
+    {
+        id:6,
+        name:"dhoni",
+        age:46,
+        img:"https://static.tnn.in/thumb/msid-101432646,width-450,height-254,resizemode-75/101432646.jpg"
+    },
+    {
+        id:7,
+        name:"Ajay",
+        age:32,
+        img:"https://upload.wikimedia.org/wikipedia/commons/6/67/Ajay_Devgn_at_the_launch_of_MTV_Super_Fight_League.jpg"
+    }
+    
+]
+export default Data
