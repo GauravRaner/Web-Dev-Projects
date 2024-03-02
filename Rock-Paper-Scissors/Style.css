@@ -1,0 +1,13 @@
+img{
+  height: 100px;
+  width: 100px;
+}
+div{
+  height: 250px;
+  width: 400px;
+  background: #1ff483;
+}
+h1{
+  color: solid black;
+  padding-top: 30px;
+}
